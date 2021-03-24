@@ -8,10 +8,6 @@ Telegram: https://t.me/dlordwastaken
 - 🥅 2021 Goals: Learn python and be a better person
 - ⚡ Fun fact: I love to play CS:GO and code discord bots!
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/phone.svg" />][telegram]
-
 <br />
 
 ### Languages and Tools:
