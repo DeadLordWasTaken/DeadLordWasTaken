@@ -1,6 +1,6 @@
 ### Hi there, I'm DeadLord 👋
 
-[![Telegram Group](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/phone.svg)](https://t.me/dlordwastaken)
+Telegram: https://t.me/dlordwastaken
 
 ## I'm a Developer, !!
 
