@@ -1,4 +1,4 @@
-### Hi there, I'm DeadLord 👋
+### DeadLord's GitHub Profile!
 
 ### Stats
 
