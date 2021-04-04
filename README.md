@@ -1,8 +1,6 @@
 ### Hi there, I'm DeadLord 👋
 
-Telegram: https://t.me/dlordwastaken
-
-## I'm a Developer, !!
+## I'm a Developer!
 
 - 🌱 I’m currently learning everything as much as I can 🤣
 - 🥅 2021 Goals: Learn python and be a better person
@@ -25,5 +23,12 @@ Telegram: https://t.me/dlordwastaken
 
 ---
 
-:zap: GitHub Stats
-  <img align="left" alt="DeadLord's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DeadLordWasTaken&show_icons=true&hide_border=true&theme=tokyonight" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=DeadLordWasTaken&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadLordWasTaken&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeadLordWasTaken@theme=tokyonight" />
+</a>
