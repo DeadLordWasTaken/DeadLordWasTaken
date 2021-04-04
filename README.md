@@ -11,8 +11,6 @@
 - 🥅 2021 Goals: Learn python and be a better person
 - ⚡ Fun fact: I love to play CS:GO and code discord bots!
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
