@@ -3,7 +3,9 @@
 [![DeadLord's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadLordWasTaken&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadLordWasTaken&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
---
+<br>
+
+## Information
 
 - 🌱 I’m currently learning everything as much as I can 🤣
 - 🥅 2021 Goals: Learn python and be a better person
